@@ -2,10 +2,10 @@ import {
   LinkIcon,
   ShareIcon,
 } from "@heroicons/react/24/solid";
-import React, { useState } from "react";
+import React from "react";
 import { useContext } from "react";
 import { toast } from "react-hot-toast";
-import { Link, Navigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { APIContext } from "../../../../contexts/APIProvider";
 import { AuthContext } from "../../../../contexts/AuthProvider";
 import DemoWritter from "../../../Home/DemoWritter";
@@ -246,16 +246,7 @@ const ArticleDetailsCard = ({ articleData,users,setUsers }) => {
             </li>
 
             <li>
-              {/* <a
-                href="/"
-                rel="noreferrer"
-                target="_blank"
-                className={
-                  isDarkMode
-                    ? "text-gray-200 transition hover:text-gray-300"
-                    : "text-gray-500 transition hover:text-black"
-                }
-              > */}
+              
               {/* 3 dot */}
               <div className="dropdown dropdown-end">
                 <button className="btn btn-square btn-ghost">
@@ -416,7 +407,7 @@ const ArticleDetailsCard = ({ articleData,users,setUsers }) => {
           </div>
 
           {/* Modal body for comment */}
-          {/* Put this part before </body> tag */}
+        
           <input type="checkbox" id="comment-modal" className="modal-toggle " />
 
           <div className="modal flex justify-end ">

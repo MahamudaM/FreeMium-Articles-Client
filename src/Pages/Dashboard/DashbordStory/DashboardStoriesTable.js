@@ -6,11 +6,7 @@ const DashboardStoriesTable = ({ article, isDarkMode, idx }) => {
   const title = articleTitle.replace(/<[^>]+>/g, "").slice(0, 50);
   return (
     <tbody
-    //   className={
-    //     isDarkMode
-    //       ? "!bg-black-250 p-4 text-black-350"
-    //       : "bg-base-100 text-black-350"
-    //   }
+    
     >
       <tr className="hover:bg-slate-800">
         <th>{idx + 1}</th>
