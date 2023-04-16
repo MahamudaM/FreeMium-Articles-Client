@@ -15,17 +15,17 @@
 
 ## Team Member
 MD RAKIBUL ISLAM RAKIB (Team leader)  \
-rakibulinux@gmail.com \\\
+rakibulinux@gmail.com \
 
 MD. Rahad Hasan\
-rahadhasan33675@gmail.com \\\
+rahadhasan33675@gmail.com \
 
 Mahamuda Akter\
-mahamuda3052@gmail.com \\\
+mahamuda3052@gmail.com \
 
 Md Sifat Ur Rahman\
-md.sifat.ur.rahman2702@gmail.com \\\
+md.sifat.ur.rahman2702@gmail.com \
 
-Md. Al Kafee\
+Md. Al Kafee
 
-MD. HAYATULLA BONY\
+MD. HAYATULLA BONY
