@@ -1,10 +1,11 @@
 # FreeMium-Articles-Client
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://freemiumarticles.web.app/
 
-## Available Scripts
+## Admin Info
 
-In the project directory, you can run:
+Admin Email `hexa_programmer@gmail.com`
+Admin password `hexaProgrammer6`
 
 ### `npm start`
 
