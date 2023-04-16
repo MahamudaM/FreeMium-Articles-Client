@@ -1,4 +1,4 @@
-# FreeMium-Articles-Client
+# FreeMium-Articles Client side
 
 ## Live Link:  https://freemiumarticles.web.app/
 
@@ -9,6 +9,6 @@
 
 
 
-## Server Code
+## Server side Code
 
 ### https://github.com/MahamudaM/FreeMium-Articles-Server
